@@ -15,3 +15,62 @@ http://bglive-a.bitgravity.com/ndtv/247hi/live/native
 http://ndtv.live.cdn.bitgravity.com/ndtv/live/ndtv247live512
 #EXTINF:0 tvg-id="Dummy" tvg-name="Sky TG24" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/91/SKY_TG24.png" group-title="Italian",Sky TG24 (rtmp)
 rtmp://cp49989.live.edgefcs.net:1935/live/streamRM1@2564
+#EXTM3U
+#EXTINF:-1,ss1
+http://62.210.162.88:80/live/sport_uk131/134814032016/2147.ts
+#EXTINF:-1,ss2
+http://62.210.162.88:80/live/sport_uk131/134814032016/2146.ts
+#EXTINF:-1,ss3
+http://62.210.162.88:80/live/sport_uk131/134814032016/2148.ts
+#EXTINF:-1,ss4
+http://62.210.162.88:80/live/sport_uk131/134814032016/2149.ts
+#EXTINF:-1,ss5
+http://62.210.162.88:80/live/sport_uk131/134814032016/2150.ts
+#EXTINF:0,#EXTINF:-1,BTSPORT1
+http://149.202.207.8:8080/Btsprt1/Btsprt1/mpegts
+#EXTINF:0,#EXTINF:-1,BTSPORT2
+http://149.202.207.8:8080/Btsprt2/Btsprt2/mpegts
+#EXTINF:0,#EXTINF:-1,SKYSPORT1
+http://149.202.207.8:8080/SkkY1/SkkY1/mpegts
+#EXTINF:0,#EXTINF:-1,SKYSPORT2
+http://149.202.207.8:8080/SkkY2/SkkY2/mpegts
+#EXTINF:0,#EXTINF:-1,SKYSPORT3
+http://149.202.207.8:8080/SkkY3/SkkY3/mpegts
+#EXTINF:0,#EXTINF:-1,SKYSPORT4
+http://149.202.207.8:8080/SkkY4/SkkY4/mpegts
+#EXTINF:0,#EXTINF:-1,SKYSPORT5
+http://149.202.207.8:8080/SkkY5/SkkY5/mpegts
+#EXTINF:-1,UK : Sky 1 HD*
+http://62.210.162.88:80/live/uk118/133402032016/2104.ts
+#EXTINF:-1,UK : Discovery*
+http://62.210.162.88:80/live/uk118/133402032016/2105.ts
+#EXTINF:-1,UK : Sky Movies Action*
+http://62.210.162.88:80/live/uk118/133402032016/2103.ts
+#EXTINF:-1,UK : Sky Movies Comedy*
+http://62.210.162.88:80/live/uk118/133402032016/2102.ts
+#EXTINF:-1,UK : Sky Movies Family*
+http://62.210.162.88:80/live/uk118/133402032016/2101.ts
+#EXTINF:-1,UK : Sky Movies Modern Greats*
+http://62.210.162.88:80/live/uk118/133402032016/2097.ts
+#EXTINF:-1,UK : Sky Movies Premiere*
+http://62.210.162.88:80/live/uk118/133402032016/2100.ts
+#EXTINF:-1,UK : Sky Movies Select*
+http://62.210.162.88:80/live/uk118/133402032016/2099.ts
+#EXTINF:-1,UK : Sky Movies Showcase*
+http://62.210.162.88:80/live/uk118/133402032016/2098.ts
+#EXTINF:-1,Sky sport 1
+rtmp://89.248.174.101/live/bcdwlyss1
+#EXTINF:-1,Sky sport 2
+rtmp://89.248.174.101/live/luxsuperss2
+#EXTINF:-1,Sky sport 3
+rtmp://89.248.174.101/live/luxsuperss3
+#EXTINF:-1,Sky sport 4
+rtmp://89.248.174.101/live/luxsuperss4
+#EXTINF:-1,Sky sport 5
+rtmp://89.248.174.101/live/luxsuperss5
+#EXTINF:-1,Sky sport F1
+rtmp://89.248.174.101/live/luxsuperssf1
+#EXTINF:-1,BT Sport 1
+rtmp://89.248.174.101/live/luxsuperbts1
+#EXTINF:-1,BT Sport 2
+rtmp://89.248.174.101/live/luxsuperbts2
